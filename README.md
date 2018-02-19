@@ -6,10 +6,9 @@ Video on Coding Train: https://www.youtube.com/watch?v=flxOkx0yLrY&t=323s (Part 
 Original Source-Code: https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_69_steering_evolution
 Coding Train YouTube-Channel: https://www.youtube.com/user/shiffman
 
-##Features
+## Features
 
-..* Press 'd' to toggle Debug-Mode
-..* Press space-bar to generate a new ant at a random location with random genes
-..* Left-click: Add new food
-..* Right-click: Add new poison
-..* ...
+* Press 'd' to toggle Debug-Mode
+* Press space-bar to generate a new ant at a random location with random genes
+* Left-click: Add new food
+* Right-click: Add new poison
