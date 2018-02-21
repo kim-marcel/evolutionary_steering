@@ -6,8 +6,12 @@ Video on Coding Train: https://www.youtube.com/watch?v=flxOkx0yLrY&t=323s (Part 
 Original Source-Code: https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_69_steering_evolution  
 Coding Train YouTube-Channel: https://www.youtube.com/user/shiffman  
 
+## Screenshots
+
+Screenshot with Debug-Mode turned Off:
 ![alt text](images/screenshot_debug_off.png "Screenshot with debug mode turned off")
 
+Screenshot with Debug-Mode turned On:
 ![alt text](images/screenshot_debug_on.png "Screenshot with debug mode turned on")
 
 ## Features
