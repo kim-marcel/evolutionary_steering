@@ -24,7 +24,6 @@ Screenshot with Debug-Mode turned On:
 * The healthiest ant is highlighted
 * Dead ants turn into food
 * The color of the ants indicate their Health-level (red - almost dead; green - very healthy)
-* Ants 
 
 ## Description
 
